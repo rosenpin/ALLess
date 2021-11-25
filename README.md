@@ -1,7 +1,6 @@
 # ALLess
-A Hackathon project to control a doll movement with your eyes
-
-![demo video](assets/demo-video.mp4)
+A Hackathon project to control a doll movement with your eyes\
+![Full Video Demo](assets/demo-video.mp4)
 
 ### The idea
 We wanted to improve the lives of ALS patients.\
@@ -31,12 +30,12 @@ The project is divided into 3 main modules.
 
 The eye tracker program sets up an HTTP server.\
 The user interface communicates with the eye tracker HTTP server to present the user with correct information and eye tracking indication.
-In addition, the graphical user interface provides an option to view the history of selected limbs. This is tracked and stored so the patient's therapist can later view this information and adjust the treatment accordingly.
-![gui-demo](assets/gui-demo.mov]
+In addition, the graphical user interface provides an option to view the history of selected limbs. This is tracked and stored so the patient's therapist can later view this information and adjust the treatment accordingly.\
+![GUI Demo Video](assets/gui-demo.mov]
 
 
-A different program communicates with the eye tracker server and controls the motors accordingly using an Arduino.
-![doll-moves](assets/doll-moves.mp4)
+A different program communicates with the eye tracker server and controls the motors accordingly using an Arduino.\
+![Doll Movement Video](assets/doll-moves.mp4)
 
 
 ### TODO
