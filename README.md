@@ -26,7 +26,7 @@ The doll is connected to the "wheelchair" and strapped to 2 motors. The motors a
 The project is divided into 3 main modules.
 1. [The eye tracker](https://github.com/rosenpin/EyeTracker)
 2. [The graphical user interface](https://github.com/rosenpin/HackathonGUI) the user interacts with
-3. [The motor control + server communication](https://github.com/rosenpin/ALLess)
+3. [The motor control + server communication](https://github.com/rosenpin/ALLess/blob/main/doll_arduino.ino)
 
 The eye tracker program sets up an HTTP server.\
 The user interface communicates with the eye tracker HTTP server to present the user with correct information and eye tracking indication.
